@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Volkan
-#
-# Created:     10/11/2014
-# Copyright:   (c) Volkan 2014
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 import os
 import re
 import csv

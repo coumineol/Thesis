@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Volkan
-#
-# Created:     06/09/2014
-# Copyright:   (c) Volkan 2014
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 import numpy as np
 from scipy.special import betainc,beta
 from mpl_toolkits.mplot3d import Axes3D

@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Volkan
-#
-# Created:     23/11/2013
-# Copyright:   (c) Volkan 2013
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 import os
 from collections import Counter
 import random
